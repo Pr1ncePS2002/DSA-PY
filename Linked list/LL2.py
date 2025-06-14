@@ -27,7 +27,8 @@ def take_input1():
             tail=newnode1
         x=int(input("enter value:"))
     return head1
-newhead=take_input1()
-print_ll(newhead)
+
+# newhead=take_input1()
+# print_ll(newhead)
     
         

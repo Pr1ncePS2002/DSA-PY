@@ -35,5 +35,5 @@ def input_better():
             queue.append(right_node)
     return root
 
-root=input_better()
-print(print_binary(root))
+# root=input_better()
+# print(print_binary(root))
